@@ -1,0 +1,15 @@
+{
+  "name": "glynkapp",
+  "version": "1.0.0",
+  "description": "web app for glynk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhineet",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-connect": "^5.2.0",
+    "angularjs-scroll-glue": "^2.2.0"
+  }
+}
